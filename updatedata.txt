@@ -1,2 +1,0 @@
-All files uploaded in term wise.
-Leetcode solutions: https://github.com/Deepak-Perla/leet-code
